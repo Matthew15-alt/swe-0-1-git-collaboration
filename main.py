@@ -14,11 +14,9 @@ print(
 print(
     "Now, all you need is a comfortable place to read. We prefer reading in our bedrooms since it is the optimal place if you want to read quietly and on your own."
 )
-
-
-print(
-    "The point is, Reading can be fun in many different way; you have to see what is suitable for you and what you prefer when you find a book you really enjoy."
-)
 print(
     "Along with a good reading environment, another good way to enhance your reading experience is soft, calm background music. As well as a snack or beverage to make your reading experience as comfortable as possible."
+)
+print(
+    "The point is, Reading can be fun in many different way; you have to see what is suitable for you and what you prefer when you find a book you really enjoy."
 )
