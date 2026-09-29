@@ -1,0 +1,1 @@
+<h1> 1. Where does your code live? Describe (or sketch and include an image of) where your changes exist after each step: after you save the file, after git add, after git commit, after git push, and after your partner runs git pull. At which point can your partner see your work? </h1>
