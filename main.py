@@ -8,3 +8,6 @@ print(
 print(
     "Regardless, reading is a fundamental part of growth; the stories we read can take us to different places and show us different perspectives through the characters."
 )
+print(
+    "Reading is also a great way to stimulate your creativity, especially at a young age. Being able to create your own visualizations of the story you read and bring it to life in your head is the most magical part of reading."
+)
