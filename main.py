@@ -12,5 +12,10 @@ print(
     "Reading is also a great way to stimulate your creativity, especially at a young age. Being able to create your own visualizations of the story you read and bring it to life in your head is the most magical part of reading."
 )
 print(
-    "Now, all you need is a comfortable place to read. We prefer reading in our bedrooms since it is the optimal place if you want to read quietly and on your own"
+    "Now, all you need is a comfortable place to read. We prefer reading in our bedrooms since it is the optimal place if you want to read quietly and on your own."
+)
+
+
+print(
+    "The point is, Reading can be fun in many different way; you have to see what is suitable for you and what you prefer when you find a book you really enjoy."
 )
