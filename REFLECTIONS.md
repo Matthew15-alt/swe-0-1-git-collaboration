@@ -11,7 +11,7 @@
 <p>While writing the story, two lines of code got switched out of place, which resulted in a conflict when merging the two interfaces between partner A and partner B. First, we checked GitHub to see what version was most current, and then both Partner A and Partner B adjusted their lines of code to be identical, and both pushed edits. Once the edits were pushed, we both pulled edits to verify that we both had the most updated version.</p>
 
 <h5>Commit messages for a team. Look at your commit history on GitHub. Pick the most useful commit message and the least useful one, and rewrite the weak one here (you don't need to change the message on GitHub). Then explain: if five people were working in this repo instead of two, why would clear commit messages and pulling before you start matter even more?</h5>
-<p>Weakest commit messages: “Part 1” - “Part 6”
-Strongest commit message: “Resolve merge conflict in setting”
+<p>Weakest commit messages: “Part 1” - “Part 6”.<br>
+Strongest commit message: “Resolve merge conflict in setting”.<br>
 Clear commit messages would matter because you want to make sure all collaborators can understand the changes, edits, or milestones being added to a repo without having to use outside communications. Pulling every time you start working on a repo, before you start working on it, is especially important in group collaborations to ensure that you avoid any merging conflicts with other collaborators.<p>
 
